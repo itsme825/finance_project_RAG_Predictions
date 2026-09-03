@@ -9,7 +9,7 @@ The platform orchestrates a **parallel dual-pipeline architecture**:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend & Web UI**: Streamlit (`app.py`)
 - **Machine Learning & Modeling**: XGBoost (`train_xgboost_pipeline.py`), scikit-learn
@@ -21,27 +21,27 @@ The platform orchestrates a **parallel dual-pipeline architecture**:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
-├── app.py                      # Unified Split-Screen Streamlit Dashboard
-├── forecast_engine.py          # Ollama LLM Trend Forecasting & Reasoning Engine
-├── train_xgboost_pipeline.py   # Steps 3-6: XGBoost ML Model, Time-Split, SHAP/LIME
-├── finbert_sentiment_pipeline.py # Step 2: FinBERT 5-Theme Sentiment Scoring
-├── peer_market_pipeline.py     # Step 1: 10 Peer Banks Market Data & Labeling
-├── reranking.py                # Hybrid RAG Engine (BM25 + Vector DB + Cross-Encoder)
-├── chunk_and_embed.py          # Transcript Text Chunking & ChromaDB Vectorization
+├── app.py                      
+├── forecast_engine.py          
+├── train_xgboost_pipeline.py   
+├── finbert_sentiment_pipeline.py 
+├── peer_market_pipeline.py    
+├── reranking.py                
+├── chunk_and_embed.py          
 ├── data/
-│   ├── peer_group_config.json  # Metadata for 10 Indian Private Sector Peer Banks
-│   ├── peer_market_dataset.json# Pooled Panel Dataset (240 cross-sectional events)
-│   └── peer_market_dataset.csv # CSV Export of Feature/Target Matrix
-├── .gitignore                  # Git Exclusion Configuration
-└── README.md                   # Project Documentation
+│   ├── peer_group_config.json 
+│   ├── peer_market_dataset.json
+│   └── peer_market_dataset.csv
+├── .gitignore                  
+└── README.md                   
 ```
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Install Dependencies
 ```bash
