@@ -1,0 +1,70 @@
+================================================================================
+COMPANY: AXIS BANK LIMITED
+TICKER: AXISBANK
+DATE: 2025-01-23
+SUBJECT: Axis Bank Q3 FY25 Financial Results & Strategy Call
+MANAGEMENT TEAM: AMITABH CHAUDHRY, RAJIV ANAND, SUBRAT MOHANTY, PUNEET SHARMA, MUNISH SHARDA, SUMIT BALI
+================================================================================
+TRANSCRIPT CONTENT:
+
+Amitabh Chaudhry [Management]:
+Executive Strategic Summary & Operating Performance:
+Good evening and thank you for joining. In Q3 FY25, Axis Bank delivered a Net Profit (PAT) of ₹6740 crore, reflecting a YoY growth of 18%. Our Return on Assets (ROA) expanded to 1.88% and consolidated Return on Equity (ROE) stood at 20.2%.
+
+Strategic Execution under GPS Pillars:
+1. Resilient Franchise: Total balance sheet size crossed ₹16.0 lakh crore. Branch network expanded to 5080 branches.
+2. Distinctiveness & Digital Adoption: Monthly active users on our flagship retail app 'open' reached 16.9 million. Our wholesale digital platform 'NEO' now handles over 69% of corporate cash management volumes.
+3. Customer Experience: In the independent Cantor benchmarking study, Axis Bank secured the #2 rank in Net Promoter Score (NPS) across peer private banks.
+
+Puneet Sharma [Management]:
+Financial Analytics & Asset Quality Metrics:
+1. Revenue & Margins: Net Interest Income (NII) for the quarter grew 16% YoY to ₹13740 crore. Net Interest Margin (NIM) was 4.0%. Core Operating Profit rose to ₹10840 crore. Cost-to-Income ratio improved to 47.4%.
+
+2. Balance Sheet Yields & Costs: Yield on advances stood at 9.77%, while cost of funds was 5.41%, resulting in a healthy interest spread of 4.36%.
+
+3. Asset Quality & Capital Ratios: Gross NPA ratio declined by 5 bps QoQ to 1.44%, and Net NPA ratio stood at 0.38%. Provision Coverage Ratio (PCR) on gross NPAs reached 78.1%. Annualized credit cost was 60 bps.
+
+4. Capital & Liquidity: Basel III Capital Adequacy Ratio (CRAR) stood at 17.0%, with CET-1 ratio at 14.53%. Loan-to-Deposit Ratio (LDR) was controlled at 87.6%.
+
+Mahrukh Adajania (HSBC) [Analyst]:
+Analytical Query - Deposit Repricing, LDR & Citi Integration Synergy:
+Thank you. I have two specific analytical questions:
+Q1: Given system liquidity conditions, what is your guidance on terminal cost of deposits, and how fast will LDR reach your targeted 85% mark?
+Q2: For Rajiv—could you quantify the wealth management AUM growth, cross-sell ratio, and annual churn rate within the acquired Citi customer base?
+
+Rajiv Anand [Management]:
+Response on Citi Integration Metrics & Wealth Management AUM:
+Thanks Mahrukh. On Citi integration:
+- Wealth Management AUM: Overall AUM under 'Burgundy' and Citi wealth accounts increased to ₹4.82 lakh crore, representing a YoY growth of 26%.
+- Attrition Rate: Customer retention post-integration remains best-in-class, with annual attrition under 1.8% across credit cards and high-net-worth accounts.
+- Cross-Sell Multiplier: Cross-sell ratio of liability products and home loans to Citi cardholders increased by 36% YoY, delivering higher fee intensity per customer.
+
+Puneet Sharma [Management]:
+Response on LDR Trajectory & Deposit Cost Guidance:
+Regarding LDR and cost of funds:
+- CASA & Deposit Breakdown: CASA ratio stood at 42.0%. Retail term deposits grew 17% YoY, providing granular liquidity support.
+- LDR Target: LDR reduced to 87.6% this quarter. We are growing advances at 14% while targeting deposit growth at 16%, ensuring LDR smoothly converges to 85% over the next 2-3 quarters.
+- Cost of Funds Trajectory: Incremental cost of deposits has plateaued, with sequential increase contained to just 4 bps.
+
+Suresh Ganapathy (Macquarie) [Analyst]:
+Analytical Query - Unsecured Credit Stress, Delinquencies & RBI Risk Weights:
+My question is on unsecured retail assets (Personal Loans & Credit Cards). What is the current share of unsecured loans in overall advances, what are the 30+ and 90+ DPD delinquency trends, and how did the RBI risk weight recalibration impact CET-1?
+
+Sumit Bali [Management]:
+Response on Unsecured Retail Portfolio & Risk Analytics:
+Hi Suresh, Sumit here. Here are the precise retail lending metrics:
+- Portfolio Mix: Unsecured retail advances (personal loans + credit cards) represent exactly 10.5% of total bank advances.
+- Customer Profile: Over 83% of personal loan borrowers are salaried individuals working with ET 500 / MNC corporates, or existing high-vintage deposit customers.
+- Delinquency Trends: Gross 30+ DPD stands at 1.50% and 90+ DPD delinquency is flat at 0.56%, demonstrating high credit stability.
+- Capital Impact: The RBI risk weight increase had a one-time impact of ~71 bps on CET-1, which we have fully absorbed through organic internal capital generation of 46 bps per fiscal year.
+
+Amit Sachdeva (Equirus) [Analyst]:
+Analytical Query - Bharat Banking Growth, Branch Productivity & Opex Guidance:
+Could management break down Bharat Banking (RUSU) loan growth, agri-loan disbursement trends, and overall cost-to-income guidance?
+
+Munish Sharda [Management]:
+Response on Bharat Banking Growth & RUSU Credit:
+Thanks Amit. Munish here. Key metrics for Bharat Banking:
+- RUSU Credit Growth: Rural and Semi-Urban advances expanded 19% YoY, driven by micro-banking and agri-enterprise financing.
+- Dedicated Agri Infrastructure: We operate dedicated agri-loan hubs in 2250 branches, yielding a deposit growth of 16% YoY in RUSU pincodes.
+- Cost-to-Income Trajectory: Operating expenses grew 11% YoY, outpaced by core revenue growth. Cost-to-income ratio for the quarter improved to 47.4%, and we guide for a medium-term target of ~46-47%.

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "company": "AXISBANK",
+    "date": "2024-07-24",
+    "subject": "Axis Bank Q1 FY25 Financial Results & Strategy Call",
+    "management_names": [
+      "AMITABH CHAUDHRY",
+      "RAJIV ANAND",
+      "SUBRAT MOHANTY",
+      "PUNEET SHARMA",
+      "MUNISH SHARDA",
+      "SUMIT BALI"
+    ]
+  },
+  "conversations": [
+    {
+      "speaker": "Amitabh Chaudhry",
+      "role": "Management",
+      "content": "Executive Strategic Summary & Operating Performance:\nGood evening and thank you for joining. In Q1 FY25, Axis Bank delivered a Net Profit (PAT) of ₹6555 crore, reflecting a YoY growth of 17%. Our Return on Assets (ROA) expanded to 1.86% and consolidated Return on Equity (ROE) stood at 19.85%.\n\nStrategic Execution under GPS Pillars:\n1. Resilient Franchise: Total balance sheet size crossed ₹15.5 lakh crore. Branch network expanded to 5040 branches.\n2. Distinctiveness & Digital Adoption: Monthly active users on our flagship retail app 'open' reached 16.3 million. Our wholesale digital platform 'NEO' now handles over 68% of corporate cash management volumes.\n3. Customer Experience: In the independent Cantor benchmarking study, Axis Bank secured the #2 rank in Net Promoter Score (NPS) across peer private banks."
+    },
+    {
+      "speaker": "Puneet Sharma",
+      "role": "Management",
+      "content": "Financial Analytics & Asset Quality Metrics:\n1. Revenue & Margins: Net Interest Income (NII) for the quarter grew 15% YoY to ₹13430 crore. Net Interest Margin (NIM) was 3.97%. Core Operating Profit rose to ₹10580 crore. Cost-to-Income ratio improved to 47.6%.\n\n2. Balance Sheet Yields & Costs: Yield on advances stood at 9.74%, while cost of funds was 5.37%, resulting in a healthy interest spread of 4.37%.\n\n3. Asset Quality & Capital Ratios: Gross NPA ratio declined by 4 bps QoQ to 1.46%, and Net NPA ratio stood at 0.39%. Provision Coverage Ratio (PCR) on gross NPAs reached 77.7%. Annualized credit cost was 57 bps.\n\n4. Capital & Liquidity: Basel III Capital Adequacy Ratio (CRAR) stood at 16.85%, with CET-1 ratio at 14.41%. Loan-to-Deposit Ratio (LDR) was controlled at 88.0%."
+    },
+    {
+      "speaker": "Mahrukh Adajania (HSBC)",
+      "role": "Analyst",
+      "content": "Analytical Query - Deposit Repricing, LDR & Citi Integration Synergy:\nThank you. I have two specific analytical questions:\nQ1: Given system liquidity conditions, what is your guidance on terminal cost of deposits, and how fast will LDR reach your targeted 85% mark?\nQ2: For Rajiv—could you quantify the wealth management AUM growth, cross-sell ratio, and annual churn rate within the acquired Citi customer base?"
+    },
+    {
+      "speaker": "Rajiv Anand",
+      "role": "Management",
+      "content": "Response on Citi Integration Metrics & Wealth Management AUM:\nThanks Mahrukh. On Citi integration:\n- Wealth Management AUM: Overall AUM under 'Burgundy' and Citi wealth accounts increased to ₹4.64 lakh crore, representing a YoY growth of 25%.\n- Attrition Rate: Customer retention post-integration remains best-in-class, with annual attrition under 1.8% across credit cards and high-net-worth accounts.\n- Cross-Sell Multiplier: Cross-sell ratio of liability products and home loans to Citi cardholders increased by 35% YoY, delivering higher fee intensity per customer."
+    },
+    {
+      "speaker": "Puneet Sharma",
+      "role": "Management",
+      "content": "Response on LDR Trajectory & Deposit Cost Guidance:\nRegarding LDR and cost of funds:\n- CASA & Deposit Breakdown: CASA ratio stood at 41.8%. Retail term deposits grew 20% YoY, providing granular liquidity support.\n- LDR Target: LDR reduced to 88.0% this quarter. We are growing advances at 13% while targeting deposit growth at 15%, ensuring LDR smoothly converges to 85% over the next 2-3 quarters.\n- Cost of Funds Trajectory: Incremental cost of deposits has plateaued, with sequential increase contained to just 3 bps."
+    },
+    {
+      "speaker": "Suresh Ganapathy (Macquarie)",
+      "role": "Analyst",
+      "content": "Analytical Query - Unsecured Credit Stress, Delinquencies & RBI Risk Weights:\nMy question is on unsecured retail assets (Personal Loans & Credit Cards). What is the current share of unsecured loans in overall advances, what are the 30+ and 90+ DPD delinquency trends, and how did the RBI risk weight recalibration impact CET-1?"
+    },
+    {
+      "speaker": "Sumit Bali",
+      "role": "Management",
+      "content": "Response on Unsecured Retail Portfolio & Risk Analytics:\nHi Suresh, Sumit here. Here are the precise retail lending metrics:\n- Portfolio Mix: Unsecured retail advances (personal loans + credit cards) represent exactly 10.4% of total bank advances.\n- Customer Profile: Over 83% of personal loan borrowers are salaried individuals working with ET 500 / MNC corporates, or existing high-vintage deposit customers.\n- Delinquency Trends: Gross 30+ DPD stands at 1.48% and 90+ DPD delinquency is flat at 0.55%, demonstrating high credit stability.\n- Capital Impact: The RBI risk weight increase had a one-time impact of ~71 bps on CET-1, which we have fully absorbed through organic internal capital generation of 45 bps per fiscal year."
+    },
+    {
+      "speaker": "Amit Sachdeva (Equirus)",
+      "role": "Analyst",
+      "content": "Analytical Query - Bharat Banking Growth, Branch Productivity & Opex Guidance:\nCould management break down Bharat Banking (RUSU) loan growth, agri-loan disbursement trends, and overall cost-to-income guidance?"
+    },
+    {
+      "speaker": "Munish Sharda",
+      "role": "Management",
+      "content": "Response on Bharat Banking Growth & RUSU Credit:\nThanks Amit. Munish here. Key metrics for Bharat Banking:\n- RUSU Credit Growth: Rural and Semi-Urban advances expanded 22% YoY, driven by micro-banking and agri-enterprise financing.\n- Dedicated Agri Infrastructure: We operate dedicated agri-loan hubs in 2225 branches, yielding a deposit growth of 19% YoY in RUSU pincodes.\n- Cost-to-Income Trajectory: Operating expenses grew 10% YoY, outpaced by core revenue growth. Cost-to-income ratio for the quarter improved to 47.6%, and we guide for a medium-term target of ~46-47%."
+    }
+  ]
+}

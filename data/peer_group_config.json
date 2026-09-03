@@ -1,0 +1,66 @@
+{
+  "benchmark_ticker": "^NSEI",
+  "sector_benchmark": "^NSEBANK",
+  "peer_banks": [
+    {
+      "name": "Axis Bank",
+      "ticker": "AXISBANK.NS",
+      "short_code": "AXISBANK",
+      "category": "Large Cap Private Bank"
+    },
+    {
+      "name": "HDFC Bank",
+      "ticker": "HDFCBANK.NS",
+      "short_code": "HDFCBANK",
+      "category": "Large Cap Private Bank"
+    },
+    {
+      "name": "ICICI Bank",
+      "ticker": "ICICIBANK.NS",
+      "short_code": "ICICIBANK",
+      "category": "Large Cap Private Bank"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "ticker": "KOTAKBANK.NS",
+      "short_code": "KOTAKBANK",
+      "category": "Large Cap Private Bank"
+    },
+    {
+      "name": "IndusInd Bank",
+      "ticker": "INDUSINDBK.NS",
+      "short_code": "INDUSINDBK",
+      "category": "Mid Cap Private Bank"
+    },
+    {
+      "name": "Federal Bank",
+      "ticker": "FEDERALBNK.NS",
+      "short_code": "FEDERALBNK",
+      "category": "Mid Cap Private Bank"
+    },
+    {
+      "name": "IDFC FIRST Bank",
+      "ticker": "IDFCFIRSTB.NS",
+      "short_code": "IDFCFIRSTB",
+      "category": "Mid Cap Private Bank"
+    },
+    {
+      "name": "Bandhan Bank",
+      "ticker": "BANDHANBNK.NS",
+      "short_code": "BANDHANBNK",
+      "category": "Mid Cap Private Bank"
+    },
+    {
+      "name": "RBL Bank",
+      "ticker": "RBLBANK.NS",
+      "short_code": "RBLBANK",
+      "category": "Small Cap Private Bank"
+    },
+    {
+      "name": "City Union Bank",
+      "ticker": "CUB.NS",
+      "short_code": "CUB",
+      "category": "Small Cap Private Bank"
+    }
+  ]
+}
